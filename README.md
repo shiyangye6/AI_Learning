@@ -18,4 +18,17 @@ AI Coding tools:
     NTU Web programming: 
         videos: https://www.youtube.com/playlist?list=PLIAzIZzCjtLJQzoK-1n6R_KVTXm4tHZqP
         notes: https://ric2k1.notion.site/Lecture-Notes-2610e6ef6182800d9290eacf51164795
+
+Google AI traning:
+    Introduction to Generative AI: https://www.skills.google/paths/118/course_templates/536
+    Introduction to Large Language Models: https://www.skills.google/paths/118/course_templates/539
+    Responsible AI: Applying AI Principles with Google Cloud: https://www.skills.google/paths/118/course_templates/388
+    Google AI Essentials: https://www.coursera.org/specializations/ai-essentials-google?isNewUser=true&authMode=signupSuccess
+    Introduction to the Cloud: https://rsvp.withgoogle.com/events/gdg-introduction-to-the-cloud-2024_dd502a
+    Introduction to Responsible AI: https://www.skills.google/paths/118/course_templates/554
+    Understand the basics of code: https://skillshop.exceedlms.com/student/collection/648915-basics-code
+    Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud: https://www.skills.google/course_templates/156
+    Prompt Design in Vertex AI: https://www.skills.google/paths/118/course_templates/976
+
+AI Books: https://github.com/AniruddhaChattopadhyay/Books
     
