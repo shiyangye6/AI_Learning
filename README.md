@@ -31,4 +31,6 @@ Google AI traning:
     Prompt Design in Vertex AI: https://www.skills.google/paths/118/course_templates/976
 
 AI Books: https://github.com/AniruddhaChattopadhyay/Books
+
+test
     
